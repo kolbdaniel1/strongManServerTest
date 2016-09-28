@@ -1,0 +1,2 @@
+# strongManServerTest
+test django project
